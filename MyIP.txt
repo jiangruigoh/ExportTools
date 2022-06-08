@@ -1,0 +1,8 @@
+#Database Name
+backend
+#Server IP
+Localhost
+#Port No
+3306
+#Auto
+0
